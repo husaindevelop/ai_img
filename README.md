@@ -1,5 +1,5 @@
 ## Prerequisites
-Before running the project, please create ai_images database and images table by running the following sql queries in your database client for proper functioning of the application:
+Before running the project, please create `images` table under `ai_images` database by running the following sql queries in your database client for proper functioning of the application:
 
 
     CREATE DATABASE IF NOT EXISTS ai_images;  
